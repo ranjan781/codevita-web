@@ -1,2 +1,0 @@
-# codevita-web
-landing page
